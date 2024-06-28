@@ -2,7 +2,7 @@
 module.exports = {
   content: [
     './dist/index.html',
-    './src/script.ts',
+    './src/ts/script.ts',
     './dist/js/script.js'
   ],
   theme: {
